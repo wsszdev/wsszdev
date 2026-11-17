@@ -4,11 +4,12 @@
 
 </div>
 
-I'm passionate about networking and low-level programming, and most of my curiosity ends up in the kernel.
+I'm passionate about networking, low-level programming, and quantitative data, and most of my curiosity revolves around understanding complex systems — from the Linux kernel to financial markets.
 
-- **Linux & BSD kernels**: I enjoy reading and hacking on kernel internals (scheduling, memory management, the network stack, drivers) and comparing how Linux, FreeBSD and OpenBSD solve the same problems differently.
-- **Systems optimization**: profiling, tracing and tuning, from cache misses and syscalls to packet processing paths. I like making things faster and leaner, and understanding exactly why they got faster.
-- **Networking**: protocols, routing, packet filtering and high-performance data planes.
+- **Linux & BSD kernels**: I enjoy reading and hacking on kernel internals (scheduling, memory management, the network stack, drivers) and comparing how Linux, FreeBSD, and OpenBSD solve the same problems differently.
+- **Systems optimization**: Profiling, tracing, and tuning, from cache misses and syscalls to packet processing paths. I like making things faster and leaner, and understanding exactly why they got faster.
+- **Networking**: Protocols, routing, packet filtering, and high-performance data planes.
+- **Quantitative Data & Finance**: I'm fascinated by quantitative analysis, financial data, statistical modeling, and the intersection of mathematics, programming, and financial markets. I enjoy exploring datasets, identifying patterns, building models, and understanding the mechanics behind market behavior.
 
 Most of my work happens on GitLab, so this profile only shows a small part of what I do.
 
