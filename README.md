@@ -49,6 +49,21 @@ Most of my work happens on GitLab, so this profile only shows a small part of wh
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Arista EOS](https://img.shields.io/badge/Arista_EOS-1D3E6E?style=for-the-badge)
+![Juniper](https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white)
+
+### IoT & Wireless
+
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-1D1D1D?style=for-the-badge)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-555555?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
+![Thread](https://img.shields.io/badge/Thread-555555?style=for-the-badge)
+![Matter](https://img.shields.io/badge/Matter-1D1D1D?style=for-the-badge)
+![Z-Wave](https://img.shields.io/badge/Z--Wave-555555?style=for-the-badge)
+![CoAP](https://img.shields.io/badge/CoAP-1D1D1D?style=for-the-badge)
+![Modbus](https://img.shields.io/badge/Modbus-555555?style=for-the-badge)
 
 ### Web
 
